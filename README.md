@@ -1,6 +1,6 @@
 <div align="center">
 
-![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
+![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
 
 <h1 align="center">tatitoxt</h1>
 
@@ -17,9 +17,9 @@
 ### 📊 Estadísticas & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=00000000&hide_border=true" width="48%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=dark&background=00000000&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=dracula&background=00000000&hide_border=true" width="48%" />
 </p>
 
 </div>
