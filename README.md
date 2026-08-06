@@ -12,12 +12,15 @@
 
 ### 📊 Estadísticas & Actividad
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="200" />
+</p>
 
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=tokyonight&hide_border=true" width="97%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=tokyonight&hide_border=true" height="195" />
+</p>
 
 </div>
 
