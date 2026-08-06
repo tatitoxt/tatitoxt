@@ -2,6 +2,8 @@
 
 ![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
 
+<h1 align="center">tatitoxt</h1>
+
 <p align="center">
   <b>Salesforce Consultant and Forward Deployed AI Engineer (FDE). 100% self-taught the hard way.</b>
 </p>
@@ -15,13 +17,9 @@
 ### 📊 Estadísticas & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="46.4%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=dark&background=00000000&hide_border=true" width="46.4%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&theme=dark&bg_color=00000000&hide_border=true&layout=compact" width="46.4%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="31.5%" />
+  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=dark&background=00000000&hide_border=true" width="31.5%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&theme=dark&bg_color=00000000&hide_border=true&layout=compact" width="31.5%" />
 </p>
 
 </div>
