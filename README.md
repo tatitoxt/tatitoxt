@@ -99,6 +99,9 @@
 <div align="center">
 
 💬 *¿Te interesa colaborar en algún proyecto u Open Source?*  
-📫 Contacto: [GitHub @tatitoxt](https://github.com/tatitoxt) • 📧 [fausto@caldentech.llc](mailto:fausto@caldentech.llc) • 📧 [pasturafausto@gmail.com](mailto:pasturafausto@gmail.com)
+
+📫 **Contacto:** [GitHub @tatitoxt](https://github.com/tatitoxt)  
+📧 **Trabajo:** [fausto@caldentech.llc](mailto:fausto@caldentech.llc)  
+✉️ **Personal:** [pasturafausto@gmail.com](mailto:pasturafausto@gmail.com)
 
 </div>
