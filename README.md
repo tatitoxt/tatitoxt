@@ -5,7 +5,7 @@
 <h1 align="center">tatitoxt</h1>
 
 <p align="center">
-  <b>Salesforce Consultant and Forward Deployed AI Engineer (FDE). 100% self-taught the hard way.</b>
+  <b>Salesforce Consultant, Forward Deployed AI Engineer (FDE) & Founder @ <a href="https://www.orkelya.xyz">orkelya.xyz</a>. 100% self-taught the hard way.</b>
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/tatitoxt?style=for-the-badge&logo=github&color=181717)](https://github.com/tatitoxt)
