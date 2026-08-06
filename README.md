@@ -2,7 +2,9 @@
 
 ![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
 
-> **AI Solutions Architect & Full-Stack Automation Engineer** ☕ :: **Founder @ Orkelya** 🤖 :: **DevOps Enthusiast** ⚡
+<p align="center">
+  <b>Salesforce Consultant and Forward Deployed AI Engineer (FDE). 100% self-taught the hard way.</b>
+</p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/tatitoxt?style=for-the-badge&logo=github&color=181717)](https://github.com/tatitoxt)
 [![Repositories](https://img.shields.io/github/repositories/enhancement/tatitoxt?style=for-the-badge&logo=github&color=0d1117&label=Repos)](https://github.com/tatitoxt?tab=repositories)
