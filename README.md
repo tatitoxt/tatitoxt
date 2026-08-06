@@ -43,9 +43,9 @@
 
 ---
 
-### 🌱 My Skills
-
 <div align="center">
+
+### 🌱 My Skills
 
 #### 💻 Programming Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
