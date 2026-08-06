@@ -15,9 +15,13 @@
 ### 📊 Estadísticas & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="32%" />
-  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=dark&background=00000000&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&theme=dark&bg_color=00000000&hide_border=true&layout=compact" width="32%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="46.4%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=dark&background=00000000&hide_border=true" width="46.4%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&theme=dark&bg_color=00000000&hide_border=true&layout=compact" width="46.4%" />
 </p>
 
 </div>
