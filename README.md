@@ -15,6 +15,17 @@
 [![Repositories](https://img.shields.io/github/repositories/enhancement/tatitoxt?style=for-the-badge&logo=github&color=0d1117&label=Repos)](https://github.com/tatitoxt?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=tatitoxt&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/tatitoxt)
 
+<br />
+
+### 📊 Estadísticas & Actividad
+
+<img src="https://github-readme-stats.vercel.app/api?username=tatitoxt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatitoxt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tatitoxt&theme=tokyonight&hide_border=true" width="97%" />
+
 </div>
 
 ---
@@ -49,21 +60,6 @@
 | **Backend & IA** | `Node.js` `Express` `FastAPI` `PyTorch` `LangChain` `REST/GraphQL` |
 | **Bases de Datos** | `PostgreSQL` `MongoDB` `Redis` `Prisma` `Supabase` |
 | **DevOps & Cloud**| `Docker` `Kubernetes` `AWS` `GitHub Actions` `Linux / Bash` |
-
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tatitoxt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatitoxt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tatitoxt&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
 
