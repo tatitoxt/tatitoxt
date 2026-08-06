@@ -2,7 +2,7 @@
 
 ![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
 
-> **Fullstack Software Engineer** ☕ :: **AI & Agents Architect** 🤖 :: **Systems & DevOps Enthusiast** ⚡
+> **AI Solutions Architect & Full-Stack Automation Engineer** ☕ :: **Founder @ Orkelya** 🤖 :: **DevOps Enthusiast** ⚡
 
 [![GitHub Followers](https://img.shields.io/github/followers/tatitoxt?style=for-the-badge&logo=github&color=181717)](https://github.com/tatitoxt)
 [![Repositories](https://img.shields.io/github/repositories/enhancement/tatitoxt?style=for-the-badge&logo=github&color=0d1117&label=Repos)](https://github.com/tatitoxt?tab=repositories)
@@ -25,6 +25,59 @@
 
 ---
 
+### 🌱 My Skills
+
+<div align="center">
+
+#### 💻 Programming Languages
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+
+#### 📚 Frameworks & Libraries
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
+
+#### ⚙️ Software & Enterprise Automation
+[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+
+#### ☁️ Cloud & Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](#)
+
+</div>
+
+---
+
 ### 🚀 Proyectos Destacados
 
 #### 🤖 IA, Agentes & Automatización
@@ -41,22 +94,6 @@
 - 🚀 **[FastVault](https://github.com/tatitoxt/fastvault)** - Gestor de secretos en CLI ultra rápido y encriptado escrito en Rust.
 - 🐳 **[DockNuke](https://github.com/tatitoxt/docknuke)** - Utilidad en Go para limpieza inteligente y optimización de entornos Docker.
 - 🛡️ **[Gatekeeper-Proxy](https://github.com/tatitoxt/gatekeeper-proxy)** - Reverse proxy dinámico con Rate Limiting y reglas de firewall en TypeScript/Node.js.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `TypeScript` `JavaScript` `Python` `Rust` `Go` `SQL` |
-| **Frontend** | `React` `Next.js` `TailwindCSS` `Redux Toolkit` `HTML5/CSS3` |
-| **Backend & IA** | `Node.js` `Express` `FastAPI` `PyTorch` `LangChain` `REST/GraphQL` |
-| **Bases de Datos** | `PostgreSQL` `MongoDB` `Redis` `Prisma` `Supabase` |
-| **DevOps & Cloud**| `Docker` `Kubernetes` `AWS` `GitHub Actions` `Linux / Bash` |
-
-</div>
 
 ---
 
