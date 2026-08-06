@@ -1,13 +1,6 @@
-# ¡Hola! Soy tatitoxt 👋
-
 <div align="center">
 
-```
-  _         _   _ _            _   
- | |_  __ _| |_(_) |_ ___  _ _| |_ 
- |  _|/ _` |  _| |  _/ _ \| '_|  _|
-  \__|\__,_|\__|_|\__\___/|_|  \__|
-```
+![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
 
 > **Fullstack Software Engineer** ☕ :: **AI & Agents Architect** 🤖 :: **Systems & DevOps Enthusiast** ⚡
 
@@ -19,12 +12,12 @@
 
 ### 📊 Estadísticas & Actividad
 
-<img src="https://github-readme-stats.vercel.app/api?username=tatitoxt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatitoxt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatitoxt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatitoxt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tatitoxt&theme=tokyonight&hide_border=true" width="97%" />
+<img src="https://streak-stats.demolab.com/?user=tatitoxt&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
 
