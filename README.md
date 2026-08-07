@@ -4,6 +4,7 @@
 
 <p align="center">
   <b>Salesforce Consultant, Forward Deployed AI Engineer (FDE) & Founder @ <a href="https://www.orkelya.xyz">orkelya.xyz</a>. 100% self-taught the hard way.</b>
+  ——— The two of us was actually the three of us all along ———
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/tatitoxt?style=for-the-badge&logo=github&color=181717)](https://github.com/tatitoxt)
