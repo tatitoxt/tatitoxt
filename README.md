@@ -3,8 +3,8 @@
 ![tatitoxt Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=180&section=header&text=tatitoxt&fontSize=65&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
-  <b>Salesforce Consultant, Forward Deployed AI Engineer (FDE) & Founder @ <a href="https://www.orkelya.xyz">orkelya.xyz</a>. 100% self-taught the hard way.</b>
-  ——— The two of us was actually the three of us all along ———
+  <b>Salesforce Consultant, Forward Deployed AI Engineer (FDE) & Founder @ <a href="https://www.orkelya.xyz">orkelya.xyz</a>. 100% self-taught the hard way.</b><br />
+  <i>─── The two of us was actually the three of us all along ───</i>
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/tatitoxt?style=for-the-badge&logo=github&color=181717)](https://github.com/tatitoxt)
