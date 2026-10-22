@@ -1,21 +1,22 @@
-# Hola, soy Fausto
+# Custom software and business automation | Software a medida y automatización
 
-Trabajo entre Salesforce, automatización y desarrollo de herramientas para equipos técnicos. Me interesa convertir procesos difíciles de operar en software que se pueda entender, probar y mantener.
+I build custom software and systems for businesses, and automate workflows with or without AI. I work across CRM, integrations, and operations, from understanding a process to implementing and documenting the solution.
 
-## Proyectos
+Desarrollo sistemas y software a medida para empresas, además de automatizaciones con o sin IA. Trabajo con CRM, integraciones y operaciones: entiendo el proceso, construyo la solución y dejo claro cómo mantenerla.
 
-- [Import Preflight](https://github.com/tatitoxt/crm-import-preflight) — herramienta local en el navegador para revisar CSV de contactos antes de importarlos a un CRM.
-- [FastVault](https://github.com/tatitoxt/fastvault) — CLI en Rust para guardar secretos localmente y usarlos desde procesos; en desarrollo, con 5 tests de workspace pasando y sin auditoría de seguridad independiente.
-- [DockNuke](https://github.com/tatitoxt/docknuke) — CLI en Go para revisar y limpiar recursos de Docker.
-- [Gatekeeper Proxy](https://github.com/tatitoxt/gatekeeper-proxy) — prototipo en TypeScript de proxy HTTP con reglas de firewall y rate limiting.
-- [ShipPulse](https://github.com/tatitoxt/shippulse) — laboratorio de control de despliegues y observabilidad.
-- [Personal Page](https://github.com/tatitoxt/Personal-Page) — aplicación y materiales de portfolio/CV.
+## Selected projects | Proyectos seleccionados
 
-## En qué trabajo
+- [Import Preflight](https://github.com/tatitoxt/crm-import-preflight) — browser-based checks for CRM contact CSV files. Seven JavaScript tests; GitHub Actions passed on the current default branch. The file stays in the browser.
+- [Orkelya Content Engine prototype](https://github.com/tatitoxt/Personal-Page) — FastAPI prototype with deterministic format routing, basic copy checks, and sample HTML/SVG generation. Eleven Python tests pass locally with the documented environment variables. It does not publish to social platforms.
+- [FastVault](https://github.com/tatitoxt/fastvault) — Rust CLI for local encrypted secrets. In development; five workspace tests pass. No independent security audit.
+- [DockNuke](https://github.com/tatitoxt/docknuke) — Go CLI for reviewing and cleaning Docker resources. `go test ./...` passes.
 
-Salesforce (Apex, LWC, SOQL), integraciones, automatización con n8n y aplicaciones backend. En cada repo intento dejar claro qué está implementado y cómo ejecutarlo.
+## How I work | Cómo trabajo
 
-## Contacto
+I build integrations and internal tools around the team's actual process. Some workflows use explicit rules; AI is an option when it adds value, not a requirement.
 
-- [LinkedIn](https://www.linkedin.com/in/fausto-pastura-582828369/)
-- [Orkelya](https://www.orkelya.xyz)
+Diseño integraciones y herramientas internas según el proceso real del equipo. Algunas automatizaciones usan reglas explícitas; incorporo IA cuando aporta valor, no como requisito.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/fausto-pastura-582828369/) · [Orkelya](https://www.orkelya.xyz)
