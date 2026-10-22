@@ -4,7 +4,8 @@ Trabajo entre Salesforce, automatización y desarrollo de herramientas para equi
 
 ## Proyectos
 
-- [FastVault](https://github.com/tatitoxt/fastvault) — CLI en Rust para guardar secretos localmente y usarlos desde procesos.
+- [Import Preflight](https://github.com/tatitoxt/crm-import-preflight) — herramienta local en el navegador para revisar CSV de contactos antes de importarlos a un CRM.
+- [FastVault](https://github.com/tatitoxt/fastvault) — CLI en Rust para guardar secretos localmente y usarlos desde procesos; en desarrollo, con tests documentados en el README.
 - [DockNuke](https://github.com/tatitoxt/docknuke) — CLI en Go para revisar y limpiar recursos de Docker.
 - [Gatekeeper Proxy](https://github.com/tatitoxt/gatekeeper-proxy) — prototipo en TypeScript de proxy HTTP con reglas de firewall y rate limiting.
 - [Salesforce Operations Orchestrator](https://github.com/tatitoxt/salesforce-operations-orchestrator) — proyecto de práctica con Apex, LWC y procesamiento asíncrono.
