@@ -1,4 +1,4 @@
-# Salesforce & CRM consulting · Custom business software · Automation
+# Salesforce & CRM consulting · Custom business software · Automation · FDE
 
 I work as a **Salesforce and CRM consultant**, building custom software and systems for businesses and automating workflows with or without AI. I work from understanding the process through implementation, integration, and documentation.
 
