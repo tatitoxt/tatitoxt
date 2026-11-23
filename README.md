@@ -6,19 +6,18 @@ Trabajo como **consultor de Salesforce y CRM**. Desarrollo software y sistemas a
 
 ## Flagship | Proyecto principal
 
-- [Aurora](https://github.com/tatitoxt/aurora) — cross-platform desktop music companion (Tauri 2 · Rust core · React/TypeScript): ambient edge lighting, a glass mini player, synced karaoke-style lyrics, listening stats and playlists. Rust workspace tests + Vitest + Playwright + WebDriver E2E run on every PR.
+- [Salesforce Integration Gateway](https://github.com/tatitoxt/salesforce-integration-gateway) — Apex + LWC integration framework: signed webhooks, async reconciliation, billing sync, and an admin console. 70 Apex test methods across 9 classes.
 
 ## Selected projects | Proyectos seleccionados
 
 - [Pipeline Clinic](https://github.com/tatitoxt/pipeline-clinic) — CI failure triage for GitHub Actions: deterministic fingerprinting and grouping of recurring failures, secret redaction, HTTP API + CLI + React UI. 116 tests pass on SQLite and PostgreSQL + Playwright E2E.
 - [Compose Doctor](https://github.com/tatitoxt/compose-doctor) — Go CLI that diagnoses Docker Compose projects fully offline: Compose v2 parsing (interpolation, merge keys, profiles), 17 diagnostic rules, human/JSON output. 156 tests including golden and fuzz.
-- [CargoDesk](https://github.com/tatitoxt/cargodesk) — logistics operations desk (Go API + Next.js): request → quote → assignment → delivery state machine, SLA tracking, auditable timeline, RBAC, multi-tenancy. Unit + integration + 7 Chromium E2E tests.
+- [CargoDesk](https://github.com/tatitoxt/cargodesk) — logistics operations desk (Go API + Next.js): request → quote → assignment → delivery state machine, SLA tracking, auditable timeline, RBAC, multi-tenancy. unit, integration and 7 Chromium E2E tests.
 - [Gatekeeper Proxy](https://github.com/tatitoxt/gatekeeper-proxy) — TypeScript/Node reverse proxy with WAF, sliding-window rate limiting and a security dashboard. Hardened end-to-end (fixed IP-spoofing, stored XSS and request-smuggling bugs); 143 unit/integration + 17 E2E tests.
 - [NeuraDash](https://github.com/tatitoxt/neuradash) — multi-tenant real-time analytics dashboard (Next.js 16, React 19, WebSockets, Postgres RLS). 73 tests (30 unit, 31 integration, 12 Playwright) + compose smoke CI.
 - [ShipPulse](https://github.com/tatitoxt/shippulse) — release-safety slice in Go: deploy → transactional outbox → NATS JetStream → idempotent worker → health probes → automatic rollback, signed webhooks, append-only audit log. 52 unit+integration tests + Playwright.
 - [AgentFlow](https://github.com/tatitoxt/agentflow) — typed Python 3.11+ framework for tool-calling agents: pluggable providers (OpenAI/Anthropic/Groq), vector memory (in-memory or Redis), tracing, agent handoff. 65 tests; mypy --strict.
 - [TermaAI](https://github.com/tatitoxt/termaai) — terminal AI assistant that generates, validates and safely executes Bash scripts with dry-run checks and an audit log. 222 tests.
-- [Salesforce Integration Gateway](https://github.com/tatitoxt/salesforce-integration-gateway) — Apex + LWC integration framework: signed webhooks, async reconciliation, billing sync, admin console and a full simulator. 70 Apex test methods in 9 classes.
 - [Salesforce Operations Orchestrator](https://github.com/tatitoxt/salesforce-operations-orchestrator) — Salesforce DX practice project for operational task flows: Apex, Custom Metadata, LWC. Apex and Jest tests; Apex tests require a Salesforce org.
 - [Staff Suite Lite](https://github.com/tatitoxt/staff-suite-lite) — free MIT FiveM resource: staff reports, ticket queue and a SHA-256 hash-chained audit log.
 - [Import Preflight](https://github.com/tatitoxt/crm-import-preflight) — browser-only CSV checks for CRM imports; the file never leaves the browser. 7 automated tests.
